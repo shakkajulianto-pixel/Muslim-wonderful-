@@ -1,0 +1,5 @@
+{
+  "name": "Nurul Islam",
+  "description": "A comprehensive Islamic companion app featuring Al-Qur'an, Prayer Times, Qibla Compass, and Islamic Guides.",
+  "requestFramePermissions": ["geolocation"]
+}
